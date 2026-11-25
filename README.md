@@ -1,69 +1,60 @@
 
-<h1 align="center">Hi 👋, I'm Mohanish Patil</h1>
+# Hi, I'm Mohanish Patil
 
-<h3 align="center">
-  Aspiring Software Developer | Tech Enthusiast | Problem Solver
-</h3>
+I'm an aspiring Software Developer driven by curiosity, problem-solving, and a passion for building useful software. I enjoy exploring how technology works, understanding programming concepts, and transforming ideas into practical applications. For me, software development is a continuous journey of learning, experimenting, improving my skills, and creating solutions that make a difference.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Passionate+Software+Developer;Building+Ideas+Into+Reality;Learning+Something+New+Every+Day;Code.+Create.+Innovate." />
-</p>
+## Tech Stack
 
----
+Languages: Java, Python, C, C++, JavaScript, SQL
 
-## 👨‍💻 About Me
+Frontend: HTML, CSS, JavaScript
 
-I'm an aspiring Software Developer passionate about creating practical software solutions and exploring the world of technology.
+Backend: Java, Python
 
-- 💻 Interested in Software Development and Programming.
-- 🌱 Continuously learning new technologies and development skills.
-- 🧠 Passionate about problem-solving and logical thinking.
-- 🚀 Enjoy building projects and experimenting with new ideas.
-- 🎯 Focused on becoming a skilled and creative developer.
-- 🤝 Open to collaboration and exciting opportunities.
+Databases: MySQL
 
-## 🛠️ Languages & Technologies
+Tools & Services: Git, GitHub, VS Code
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,mysql,git,github,vscode" />
-</p>
+Core Concepts: Object-Oriented Programming, Data Structures & Algorithms, DBMS, Problem Solving, REST APIs
 
-## 📂 Featured Projects
+## What I'm Building & Learning
 
-- 🚀 Explore my repositories and development projects.
-- 💡 Building practical applications and learning through hands-on experience.
+- Building practical applications to strengthen my software development skills
+- Improving programming and problem-solving skills through Java and Python
+- Exploring frontend and backend development
+- Learning database management and SQL
+- Understanding software engineering concepts and development practices
+- Exploring new technologies and applying them through hands-on projects
 
-**Check out my repositories:** 
-[View All Projects](https://github.com/mohanish009?tab=repositories)
+## Projects
 
-## 📊 GitHub Statistics
+I enjoy learning by building projects and experimenting with different technologies. Each project helps me strengthen my technical knowledge, improve my problem-solving abilities, and gain practical development experience.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohanish009&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanish009&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+Some of my work includes:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohanish009&theme=tokyonight&hide_border=true" />
-</p>
+- **AI Tour:** Exploring AI-powered travel planning and application development.
+- **Programming Projects:** Building applications and practicing programming concepts.
+- **Web Development:** Experimenting with frontend technologies and creating web-based experiences.
 
-## 🌐 Connect With Me
+## Engineering Interests
 
-<p align="left">
-  <a href="https://github.com/mohanish009">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohanish-patil09/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+I'm particularly interested in:
+
+- Software Development and Engineering
+- Full-Stack Application Development
+- Backend Development and API Design
+- Database Management and SQL
+- Data Structures and Algorithms
+- Problem Solving and Logical Thinking
+- Emerging Technologies and AI
+
+I believe good software development is not just about writing code. It's about understanding problems, thinking creatively, learning continuously, and building solutions that are reliable, useful, and meaningful.
+
+## Connect
+
+- GitHub: [Mohanish Patil](https://github.com/mohanish009)
+- LinkedIn: [Mohanish Patil](https://www.linkedin.com/in/mohanish-patil09/)
 
 ---
 
-<h3 align="center">
-  "Think. Code. Build. Innovate. Repeat. 🚀"
-</h3>
-
-<p align="center">
-  Thanks for visiting my GitHub profile! ⭐
-</p>
+Always learning. Always building.
