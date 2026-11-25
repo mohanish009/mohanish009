@@ -1,5 +1,5 @@
 
-  <img src="./test.svg" alt="Minimal dark banner with gold cheetah spots and eyes" width="100%" />
+  <img src="./tes.svg" alt="Minimal dark banner with gold cheetah spots and eyes" width="100%" />
 
 <p align="center">
   <img src="banner.jpeg"
