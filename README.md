@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png"
+  <img src="banner.jpeg"
        width="100%"
        alt="Mohanish Patil Developer Banner">
 </p>
